@@ -6,9 +6,9 @@ Outside of work, find me here learning how to build things! Focused on solving r
 
 ## What I'm building
 
-- **Personal automation** — scripts that handle recurring tasks so I don't have to
-- **Vibe coding experiments** — exploring what's possible when you build with AI
-- **Health & fitness tools** — using tech to optimize the stuff that matters offline
+- **Personal automation** — building agents that handle repetitive tasks so I don't have to
+- **Vibe coding** — testing the limits of what I can build with AI
+- **Health & fitness** — designing a personal health & wellness OS
 
 ## Currently shipping
 
