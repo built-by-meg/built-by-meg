@@ -2,7 +2,7 @@
 
 Senior Product Manager at Microsoft, working on product-led growth for Copilot.
 
-Outside of work, I’m learning to build things myself. I’m especially interested in using AI to make everyday tasks easier—and in what building small projects can teach me about making better products.
+Outside of work, I'm learning to build things myself. I'm especially interested in using AI to make everyday tasks easier—and in what building small projects can teach me about making better products.
 
 [LinkedIn](https://www.linkedin.com/in/meg-garland/)
 
