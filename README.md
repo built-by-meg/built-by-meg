@@ -2,7 +2,7 @@
 
 Senior Product Manager at Microsoft, working on product-led growth for Copilot.
 
-Outside of work, find me here learning how to build things! Focused on solving real problems and creating tools that make life easier.
+Outside of work, find me here learning how to build things. I love exploring how AI can help me learn faster and get time back for what matters most.
 
 ## What I'm building
 
@@ -18,4 +18,3 @@ Outside of work, find me here learning how to build things! Focused on solving r
 | [corepower-booking](https://github.com/built-by-meg/corepower-booking) | Auto-books my weekly yoga classes via browser automation |
 
 *More coming soon.*
-
